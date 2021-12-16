@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ab5d8e6-a915-42e4-b5f2-fd8f30239d56" name="Changes" comment="" />
+    <list default="true" id="3ab5d8e6-a915-42e4-b5f2-fd8f30239d56" name="Changes" comment="Commit pela IDE intellij">
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/br/dio/inicio/primeiroPrograma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/br/dio/inicio/primeiroPrograma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testando/src/br/dio/inicio/primeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/testando/src/br/dio/inicio/primeiroPrograma.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +56,29 @@
       <option name="presentableId" value="Default" />
       <updated>1639665604924</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit pela IDE intellij">
+      <created>1639666058032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639666058032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit pela IDE intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit pela IDE intellij" />
   </component>
 </project>
